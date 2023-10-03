@@ -97,16 +97,6 @@ print("María tiene licencia de conducir o ha leído 'Moby Dick', pero no ambas 
 print("Juan ha visitado España o Francia, pero no ambos",
     #TODO
 )
-
-print("",
-    #TODO
-)
-
-print("",
-    #TODO
-)
-
-
 ```
 
 Para las siguientes expresiones, se precisan dos operadores que aún no hemos estudiado:
@@ -115,8 +105,7 @@ Para las siguientes expresiones, se precisan dos operadores que aún no hemos es
 * Método ``index`` del tipo ``list``: recibe un valor y devuelve la posición de la lista en la que aparece por primera vez dicho valor. **¡CUIDADO!** Si no se encuentra el valor en la lista, se produce un error de tipo ``ValueError``.
 
 ```python
-print("
-Pedro y Juan comparten al menos un hobby:",
+print("Pedro y Juan comparten al menos un hobby:",
     #TODO
 )
 
